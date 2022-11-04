@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WalletConnectSign_Tests' do
+  pod 'WalletConnectSign', :path => '../'
+  
+  
+end
