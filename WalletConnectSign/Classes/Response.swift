@@ -1,5 +1,5 @@
 import Foundation
-import JSONRPC
+import jsonPRC
 import WalletConnectUtils
 
 public struct Response: Codable {
