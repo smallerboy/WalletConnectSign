@@ -9,7 +9,7 @@ import WalletConnectPairing
 public typealias Account = WalletConnectUtils.Account
 public typealias Blockchain = WalletConnectUtils.Blockchain
 public typealias Reason = WalletConnectNetworking.Reason
-public typealias RPCID = JSONRPC.RPCID
+public typealias RPCID = jsonPRC.RPCID
 
 /// Sign instatnce wrapper
 ///
